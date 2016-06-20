@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CGoodDay</string>
+    <string name="default_value">-</string>
 </resources>
