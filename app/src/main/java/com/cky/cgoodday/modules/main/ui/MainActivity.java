@@ -1,6 +1,7 @@
 package com.cky.cgoodday.modules.main.ui;
 
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.widget.TextView;
 
@@ -15,6 +16,7 @@ import com.cky.cgoodday.base.BaseActivity;
 public class MainActivity extends BaseActivity {
 
     TextView tvCityInfo;
+    Toolbar mToolBar;
 
 
     @Override
@@ -23,11 +25,11 @@ public class MainActivity extends BaseActivity {
         setContentView(R.layout.activity_main);
 
         tvCityInfo = (TextView) findViewById(R.id.tv_city);
+        mToolBar = (Toolbar) findViewById(R.id.toolbar);
 
-
-        getLocation();
+        setSupportActionBar(mToolBar);
+        //getLocation();
     }
-
     private void getLocation () {
         //声明AMapLocationClient类对象
         AMapLocationClient mLocationClient = null;
