@@ -24,10 +24,10 @@ public class MainActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        tvCityInfo = (TextView) findViewById(R.id.tv_city);
-        mToolBar = (Toolbar) findViewById(R.id.toolbar);
+        //tvCityInfo = (TextView) findViewById(R.id.tv_city);
+        //mToolBar = (Toolbar) findViewById(R.id.toolbar);
 
-        setSupportActionBar(mToolBar);
+        //setSupportActionBar(mToolBar);
         //getLocation();
     }
     private void getLocation () {

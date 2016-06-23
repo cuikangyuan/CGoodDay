@@ -1,2 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_07915dd413589f937255a38a8ab8f094373369df/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuikangyuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_7a5bffb7c878738eea09337824e84e1c7938f996/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_154506d86cee743b3aa7db1d98b5c8e5a130c7cb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_62afdc56b36fe476e2e8f1a0fd4469a287a141eb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_17e1390c319d2f90459dcd596288cfe6060fbc43/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_503f85d2e7f613ef56171809581cf9e63a98e59e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="784053d9eea46233973d42248aac4ec04ccc63a5">
+        <dex dex="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_641956bd27b4d36a14d4862d46a7bea24ade08e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuikangyuan/Downloads/CGoodDay/app/libs/AMap_Location_V2.5.1_20160616.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8bea77d89fd38395d2a46e3677fb1ef06e6525bd">
+        <dex dex="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Location_V2.5.1_20160616_ef88b6176daf806e49fd91f2f4c06aaa2c0d9aaf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_40e21628408f96fd86cbff81f5cb9530b9897f5e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ba89cabe78c0483414f1937e377dfa9655ab2367">
+        <dex dex="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e2a3d5b998700dfb48bd2a79a6f1137555a813d6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_3f2972f27352ea39321c89aab4a56b0d17b7f2a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/cuikangyuan/Downloads/CGoodDay/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_447065f89fd5ddd516897c1218e4b526da024ea2/classes.dex" />
+    </item>
+
+</items>
