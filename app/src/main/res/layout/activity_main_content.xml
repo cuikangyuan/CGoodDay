@@ -5,12 +5,27 @@
     android:layout_height="match_parent"
     tools:showIn="@layout/activity_main"
     >
-<!--
+
     <TextView
         android:id="@+id/tv_city"
         android:text="@string/app_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+
         />
--->
+
+    <TextView
+        android:textColor="@color/white"
+        android:textSize="60sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="20°"
+        android:id="@+id/textView"
+        android:layout_below="@+id/tv_city"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="110dp" />
+
 </RelativeLayout>

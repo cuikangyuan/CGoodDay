@@ -24,11 +24,11 @@ public class MainActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //tvCityInfo = (TextView) findViewById(R.id.tv_city);
+        tvCityInfo = (TextView) findViewById(R.id.tv_city);
         //mToolBar = (Toolbar) findViewById(R.id.toolbar);
 
         //setSupportActionBar(mToolBar);
-        //getLocation();
+        getLocation();
     }
     private void getLocation () {
         //声明AMapLocationClient类对象
